@@ -1,0 +1,133 @@
+CL130,001,2022-01-01,001,2022-01-01,,Stiklinė tuščia
+CL130,002,2022-01-01,002,2022-01-01,,Plastikinė tuščia
+CL130,003,2022-01-01,003,2022-01-01,,Metalinė (aliuminio) tuščia
+CL130,004,2022-01-01,004,2022-01-01,,Metalinė (juodųjų metalų) tuščia
+CL130,005,2022-01-01,005,2022-01-01,,Popierinė (kartoninė) tuščia
+CL130,006,2022-01-01,006,2022-01-01,,Kita tuščia
+CL130,007,2022-01-01,007,2022-01-01,,PET tuščia
+CL130,008,2022-01-01,008,2022-01-01,,Medinė tuščia
+CL130,009,2022-01-01,009,2022-01-01,,Kombinuota tuščia
+CL130,01,2000-01-01,01,2000-01-01,2021-12-31,Stiklinė tuščia
+CL130,011,2022-01-01,011,2022-01-01,,Stiklinė pirminė
+CL130,012,2022-01-01,012,2022-01-01,,Plastikinė pirminė
+CL130,013,2022-01-01,013,2022-01-01,,Metalinė (aliuminio) pirminė
+CL130,014,2022-01-01,014,2022-01-01,,Metalinė (juodųjų metalų) pirminė
+CL130,015,2022-01-01,015,2022-01-01,,Popierinė (kartoninė) pirminė
+CL130,016,2022-01-01,016,2022-01-01,,Kita pirminė
+CL130,017,2022-01-01,017,2022-01-01,,PET pirminė
+CL130,018,2022-01-01,018,2022-01-01,,Medinė pirminė
+CL130,019,2022-01-01,019,2022-01-01,,Kombinuota pirminė
+CL130,02,2000-01-01,02,2000-01-01,2021-12-31,Plastikinė tuščia
+CL130,021,2022-01-01,021,2022-01-01,,Stiklinė antrinė (tretinė)
+CL130,022,2022-01-01,022,2022-01-01,,Plastikinė antrinė (tretinė)
+CL130,023,2022-01-01,023,2022-01-01,,Metalinė (aliuminio) antrinė (tretinė)
+CL130,024,2022-01-01,024,2022-01-01,,Metalinė (juodųjų metalų) antrinė (tretinė)
+CL130,025,2022-01-01,025,2022-01-01,,Popierinė (kartoninė) antrinė (tretinė)
+CL130,026,2022-01-01,026,2022-01-01,,Kita antrinė (tretinė)
+CL130,027,2022-01-01,027,2022-01-01,,PET antrinė (tretinė)
+CL130,028,2022-01-01,028,2022-01-01,,Medinė antrinė (tretinė)
+CL130,029,2022-01-01,029,2022-01-01,,Kombinuota antrinė (tretinė)
+CL130,03,2000-01-01,03,2000-01-01,2021-12-31,Kombinuota (popierinė) tuščia
+CL130,031,2022-01-01,031,2022-01-01,,Stiklinė pirminė / užstatinė daugkartinė 
+CL130,032,2022-01-01,032,2022-01-01,,Plastikinė pirminė daugkartinė
+CL130,033,2022-01-01,033,2022-01-01,,Metalinė (aliuminio) pirminė daugkartinė
+CL130,034,2022-01-01,034,2022-01-01,,Metalinė (juodųjų metalų) pirminė daugkartin
+CL130,035,2022-01-01,035,2022-01-01,,Popierinė (kartoninė) pirminė daugkartinė
+CL130,036,2022-01-01,036,2022-01-01,,Kita pirminė daugkartinė
+CL130,037,2022-01-01,037,2022-01-01,,PET pirminė daugkartinė
+CL130,038,2022-01-01,038,2022-01-01,,Medinė pirminė daugkartinė
+CL130,039,2022-01-01,039,2022-01-01,,Kombinuota pirminė daugkartinė
+CL130,04,2000-01-01,04,2000-01-01,2021-12-31,Metalinė tuščia
+CL130,041,2022-01-01,041,2022-01-01,,Stiklinė antrinė (tretinė) daugkartinė
+CL130,042,2022-01-01,042,2022-01-01,,Plastikinė antrinė (tretinė) daugkartinė
+CL130,043,2022-01-01,043,2022-01-01,,Metalinė (aliuminio) antrinė (tretinė) daugkartinė
+CL130,044,2022-01-01,044,2022-01-01,,Metalinė (juodųjų metalų) antrinė (tretinė) daugkartinė
+CL130,045,2022-01-01,045,2022-01-01,,Popierinė (kartoninė) antrinė (tretinė) daugkartinė
+CL130,046,2022-01-01,046,2022-01-01,,Kita antrinė (tretinė) daugkartinė
+CL130,047,2022-01-01,047,2022-01-01,,PET antrinė (tretinė) daugkartinė
+CL130,048,2022-01-01,048,2022-01-01,,Medinė antrinė (tretinė) daugkartinė
+CL130,049,2022-01-01,049,2022-01-01,,Kombinuota antrinė (tretinė) daugkartinė
+CL130,05,2000-01-01,05,2000-01-01,2021-12-31,Popierinė ir kartoninė tuščia
+CL130,051,2022-01-01,051,2022-01-01,,Stiklinė užstatinė
+CL130,053,2022-01-01,053,2022-01-01,,Metalinė (aliuminio) pirminė (užstatinė)
+CL130,054,2022-01-01,054,2022-01-01,,Metalinė (juodųjų metalų) pirminė (užstatinė)
+CL130,057,2022-01-01,057,2022-01-01,,PET užstatinė
+CL130,06,2000-01-01,06,2000-01-01,2021-12-31,Kita tuščia
+CL130,061,2022-01-01,061,2022-01-01,,Stiklinė pirminė sunaudota savoms reikmėms
+CL130,062,2022-01-01,062,2022-01-01,,Plastikinė pirminė sunaudota savoms reikmėms
+CL130,063,2022-01-01,063,2022-01-01,,Metalinė (aliuminio) pirminė sunaudota savo reikmės
+CL130,064,2022-01-01,064,2022-01-01,,Metalinė (juodųjų metalų) pirminė sunaudota savo reikmės
+CL130,065,2022-01-01,065,2022-01-01,,Popierinė (kartoninė) pirminė sunaudota savoms reikmėms
+CL130,066,2022-01-01,066,2022-01-01,,Kita pirminė sunaudota savoms reikmėms
+CL130,067,2022-01-01,067,2022-01-01,,PET pirminė sunaudota savoms reikmėms
+CL130,068,2022-01-01,068,2022-01-01,,Medinė pirminė sunaudota savoms reikmėms
+CL130,069,2022-01-01,069,2022-01-01,,Kombinuota pirminė sunaudota savoms reikmėms
+CL130,07,2000-01-01,07,2000-01-01,2021-12-31,PET tuščia
+CL130,071,2022-01-01,071,2022-01-01,,Stiklinė antrinė (tretinė) sunaudota savoms reikmėms
+CL130,072,2022-01-01,072,2022-01-01,,Plastikinė antrinė (tretinė) sunaudota savoms reikmėms
+CL130,073,2022-01-01,073,2022-01-01,,Metalinė (aliuminio) antrinė (tretinė) sunaudota savo reikmėms
+CL130,074,2022-01-01,074,2022-01-01,,Metalinė (juodųjų metalų) antrinė (tretinė) sunaudota savo reikmėms
+CL130,075,2022-01-01,075,2022-01-01,,Popierinė (kartoninė) antrinė (tretinė) sunaudota savoms reikmėms
+CL130,076,2022-01-01,076,2022-01-01,,Kita antrinė (tretinė) sunaudota savoms reikmėms
+CL130,077,2022-01-01,077,2022-01-01,,PET antrinė (tretinė) sunaudota savoms reikmėms
+CL130,078,2022-01-01,078,2022-01-01,,Medinė antrinė (tretinė) sunaudota savoms reikmėms
+CL130,079,2022-01-01,079,2022-01-01,,Kombinuota antrinė (tretinė) sunaudota savoms reikmėms
+CL130,08,2000-01-01,08,2000-01-01,2021-12-31,Medinė tuščia
+CL130,09,2000-01-01,09,2000-01-01,2021-12-31,Kombinuota (kita) tuščia
+CL130,11,2000-01-01,11,2000-01-01,2021-12-31,Stiklinė pirminė
+CL130,12,2000-01-01,12,2000-01-01,2021-12-31,Plastikinė pirminė
+CL130,13,2000-01-01,13,2000-01-01,2021-12-31,Kombinuota (popierinė) pirminė
+CL130,14,2000-01-01,14,2000-01-01,2021-12-31,Metalinė pirminė
+CL130,15,2000-01-01,15,2000-01-01,2021-12-31,Popierinė ir kartoninė pirminė
+CL130,16,2000-01-01,16,2000-01-01,2021-12-31,Kita pirminė
+CL130,17,2000-01-01,17,2000-01-01,2021-12-31,PET pirminė
+CL130,18,2000-01-01,18,2000-01-01,2021-12-31,Medinė pirminė
+CL130,19,2000-01-01,19,2000-01-01,2021-12-31,Kombinuota (kita) pirminė
+CL130,21,2000-01-01,21,2000-01-01,2021-12-31,Stiklinė antrinė (tretinė)
+CL130,22,2000-01-01,22,2000-01-01,2021-12-31,Plastikinė antrinė (tretinė)
+CL130,23,2000-01-01,23,2000-01-01,2021-12-31,Kombinuota (popierinė) antrinė (tretinė)
+CL130,24,2000-01-01,24,2000-01-01,2021-12-31,Metalinė antrinė (tretinė)
+CL130,25,2000-01-01,25,2000-01-01,2021-12-31,Popierinė ir kartoninė antrinė (tretinė)
+CL130,26,2000-01-01,26,2000-01-01,2021-12-31,Kita antrinė (tretinė)
+CL130,27,2000-01-01,27,2000-01-01,2021-12-31,PET antrinė (tretinė)
+CL130,28,2000-01-01,28,2000-01-01,2021-12-31,Medinė antrinė (tretinė)
+CL130,29,2000-01-01,29,2000-01-01,2021-12-31,Kombinuota (kita) antrinė (tretinė)
+CL130,31,2000-01-01,31,2000-01-01,2021-12-31,Stiklinė pirminė / užstatinė daugkartinė 
+CL130,32,2000-01-01,32,2000-01-01,2021-12-31,Plastikinė pirminė daugkartinė
+CL130,33,2000-01-01,33,2000-01-01,2021-12-31,Kombinuota (popierinė) pirminė daugkartinė
+CL130,34,2000-01-01,34,2000-01-01,2021-12-31,Metalinė pirminė daugkartinė
+CL130,35,2000-01-01,35,2000-01-01,2021-12-31,Popierinė (kartoninė) pirminė daugkartinė
+CL130,36,2000-01-01,36,2000-01-01,2021-12-31,Kita pirminė daugkartinė
+CL130,37,2000-01-01,37,2000-01-01,2021-12-31,PET pirminė daugkartinė
+CL130,38,2000-01-01,38,2000-01-01,2021-12-31,Medinė pirminė daugkartinė
+CL130,39,2000-01-01,39,2000-01-01,2021-12-31,Kombinuota (kita) pirminė daugkartinė
+CL130,41,2000-01-01,41,2000-01-01,2021-12-31,Stiklinė antrinė (tretinė) daugkartinė
+CL130,42,2000-01-01,42,2000-01-01,2021-12-31,Plastikinė antrinė (tretinė) daugkartinė
+CL130,43,2000-01-01,43,2000-01-01,2021-12-31,Kombinuota (popierinė) antrinė (tretinė) daugkartinė
+CL130,44,2000-01-01,44,2000-01-01,2021-12-31,Metalinė antrinė (tretinė) daugkartinė
+CL130,45,2000-01-01,45,2000-01-01,2021-12-31,Popierinė ir kartoninė antrinė (tretinė) daugkartinė
+CL130,46,2000-01-01,46,2000-01-01,2021-12-31,Kita antrinė (tretinė) daugkartinė
+CL130,47,2000-01-01,47,2000-01-01,2021-12-31,PET antrinė (tretinė) daugkartinė
+CL130,48,2000-01-01,48,2000-01-01,2021-12-31,Medinė antrinė (tretinė) daugkartinė
+CL130,49,2000-01-01,49,2000-01-01,2021-12-31,Kombinuota (kita) antrinė (tretinė) daugkartinė
+CL130,51,2000-01-01,51,2000-01-01,2021-12-31,Stiklinė užstatinė
+CL130,54,2000-01-01,54,2000-01-01,2021-12-31,Metalinė užstatinė
+CL130,57,2000-01-01,57,2000-01-01,2021-12-31,PET užstatinė
+CL130,61,2000-01-01,61,2000-01-01,2021-12-31,Stiklinė pirminė sunaudota savoms reikmėms
+CL130,62,2000-01-01,62,2000-01-01,2021-12-31,Plastikinė pirminė sunaudota savoms reikmėms
+CL130,63,2000-01-01,63,2000-01-01,2021-12-31,Kombinuota (popierinė) pirminė sunaudota savoms reikmėms
+CL130,64,2000-01-01,64,2000-01-01,2021-12-31,Metalinė pirminė sunaudota savoms reikmėms
+CL130,65,2000-01-01,65,2000-01-01,2021-12-31,Popierinė (kartoninė) pirminė sunaudota savoms reikmėms
+CL130,66,2000-01-01,66,2000-01-01,2021-12-31,Kita pirminė sunaudota savoms reikmėms
+CL130,67,2000-01-01,67,2000-01-01,2021-12-31,PET pirminė sunaudota savoms reikmėms
+CL130,68,2000-01-01,68,2000-01-01,2021-12-31,Medinė pirminė sunaudota savoms reikmėms
+CL130,69,2000-01-01,69,2000-01-01,2021-12-31,Kombinuota (kita) pirminė sunaudota savoms reikmėms
+CL130,71,2000-01-01,71,2000-01-01,2021-12-31,Stiklinė antrinė (tretinė) sunaudota savoms reikmėms
+CL130,72,2000-01-01,72,2000-01-01,2021-12-31,Plastikinė antrinė (tretinė) sunaudota savoms reikmėms
+CL130,73,2000-01-01,73,2000-01-01,2021-12-31,Kombinuota (popierinė) antrinė (tretinė) sunaudota savoms reikmėms
+CL130,74,2000-01-01,74,2000-01-01,2021-12-31,Metalinė antrinė (tretinė) sunaudota savoms reikmėms
+CL130,75,2000-01-01,75,2000-01-01,2021-12-31,Popierinė (kartoninė) antrinė (tretinė) sunaudota savoms reikmėms
+CL130,76,2000-01-01,76,2000-01-01,2021-12-31,Kita antrinė (tretinė) sunaudota savoms reikmėms
+CL130,77,2000-01-01,77,2000-01-01,2021-12-31,PET antrinė (tretinė) sunaudota savoms reikmėms
+CL130,78,2000-01-01,78,2000-01-01,2021-12-31,Medinė antrinė (tretinė) sunaudota savoms reikmėms
+CL130,79,2000-01-01,79,2000-01-01,2021-12-31,Kombinuota (kita) antrinė (tretinė) sunaudota savoms reikmėms
